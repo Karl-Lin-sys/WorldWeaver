@@ -1,0 +1,6 @@
+{
+  "name": "WorldWeaver",
+  "description": "A creative writing interface that ghostwrites an opening story paragraph from an uploaded image and allows you to continue the story via a collaborative chat. Features text-to-speech for read-aloud storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
